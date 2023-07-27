@@ -7,4 +7,4 @@ def filemove(src_, dest_):
         dest = os.path.join(dest_, filename)
         shutil.move(src, dest)
 
-filemove(r"C:\Users\afron\OneDrive\Desktop\source", r"C:\Users\afron\OneDrive\Desktop\destination")
+filemove(rsrc_, rdest_)
