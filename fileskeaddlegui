@@ -49,3 +49,5 @@ move_btn.grid(row=2, column=1)
 
 root.mainloop()
 #tbh, I just stole this from chatgpt, have not really read it, need to learn gui.
+#As of now I have the code as an executable file, but editing is unavailable at the moment.
+#my options are decompile the code and recompile it every time 
